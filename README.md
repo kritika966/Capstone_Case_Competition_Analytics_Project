@@ -15,7 +15,7 @@ Optimize inventory management by predicting the spare parts required for specifi
 Provide actionable insights to improve maintenance scheduling, reduce unplanned downtimes, and enhance machine reliability.
 This solution will transition Swire Coca-Cola from a reactive to a predictive maintenance approach, significantly improving operational efficiency, reducing costs, and ensuring consistent production to meet market demand. By achieving these goals, the company can mitigate financial losses, streamline operations, and maintain a competitive edge in the beverage industry.
 
-### Our Group's Solution
+### Solution
 
 To address Swire Coca-Cola’s maintenance challenges, our team developed a comprehensive predictive maintenance solution aimed at preventing unplanned downtimes and optimizing operations. By analyzing data from the Internal Warehouse Controller (IWC) system, we identified actionable insights and built a framework to support proactive maintenance planning. Here’s how we approached it:
 
